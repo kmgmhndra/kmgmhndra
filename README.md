@@ -1,8 +1,8 @@
-# 👋 Komang Mahendra
+# Komang Mahendra
 
 <div align="center">
 
-### 💻 Software Developer | Web & Mobile Architect | Problem Solver
+**Software Developer** | Web & Mobile Architect | Problem Solver
 
 Building reliable, maintainable, and user-centric digital systems that make a real-world impact.
 
@@ -12,37 +12,37 @@ Building reliable, maintainable, and user-centric digital systems that make a re
 
 ---
 
-## 🎯 About Me
+## About
 
-I'm a **Computer Science graduate** from **Universitas Pendidikan Ganesha** with a passion for developing practical solutions in web and mobile application development. Currently building digital products in both **startup** and **government** environments.
+Computer Science graduate from **Universitas Pendidikan Ganesha** with expertise in developing practical solutions for web and mobile applications. Currently building digital products in both startup and government environments.
 
-My philosophy: *Good software solves problems elegantly, not just demonstrates technology.*
+**Philosophy**: Good software solves problems elegantly, not just demonstrates technology.
 
-### 🔍 What I Do
-- 🏗️ Design scalable web application architectures
-- 📱 Develop cross-platform mobile applications
-- ⚙️ Automate systems and streamline digital workflows
-- 📊 Build data-driven decision support systems
-- 🔗 Create robust REST APIs and integrations
-
----
-
-## 💼 Current Work
-
-| Role | Organization | Focus |
-|------|--------------|-------|
-| **Co-Founder** | PT. Anindya Karya Nusantara | Web platform **diEvaluasi.id** - Tryout & Evaluation Systems |
-| **Software Developer** | Ministry of Law & Human Rights (Bali) | Internal digital systems (payroll, admin applications) |
-| **Mobile Developer** | SI UBIN | Agricultural commodity calculation application |
+### Focus Areas
+- Scalable web application architecture
+- Cross-platform mobile development
+- System automation and digitalization
+- Data-driven decision support systems
+- Robust API design and integration
 
 ---
 
-## 🛠️ Technology Stack
+## Current Work
+
+| Role | Organization | Description |
+|------|--------------|---|
+| **Co-Founder** | PT. Anindya Karya Nusantara | diEvaluasi.id - Web platform for tryout and evaluation systems |
+| **Software Developer** | Ministry of Law & Human Rights (Bali) | Internal digital systems including payroll and administrative applications |
+| **Mobile Developer** | SI UBIN | Agricultural commodity calculation and market analysis application |
+
+---
+
+## Technology Stack
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h4>🌐 Web Development</h4>
+      <h4>Web Development</h4>
       <p>
         <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -52,14 +52,14 @@ My philosophy: *Good software solves problems elegantly, not just demonstrates t
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>📱 Mobile Development</h4>
+      <h4>Mobile Development</h4>
       <p>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white" />
         <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white" />
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>🗄️ Backend & Tools</h4>
+      <h4>Backend & Tools</h4>
       <p>
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -72,27 +72,27 @@ My philosophy: *Good software solves problems elegantly, not just demonstrates t
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📋 diEvaluasi.id
+### diEvaluasi.id
 **Web-based Tryout & Evaluation Platform**  
 A comprehensive online evaluation system for students with real-time analytics and progress tracking.
 - **Stack**: Next.js, React, TypeScript, Tailwind CSS, Firebase
 - **Status**: Active (Co-Founder)
 
-### 🌾 SI UBIN
+### SI UBIN
 **Agricultural Commodity Calculator Mobile App**  
 Mobile application for calculating agricultural commodity prices and quantities with market data integration.
 - **Stack**: Flutter, Dart, Firebase
 - **Status**: Production
 
-### 💳 E-Payroll
+### E-Payroll
 **Digital Payroll Management System**  
 Internal government payroll system built for the Ministry of Law and Human Rights (Bali).
 - **Stack**: Laravel, MySQL, REST API
 - **Status**: In Use
 
-### 🐑 Sipaten
+### Sipaten
 **Livestock Recording & Management System**  
 Comprehensive system for livestock data management and tracking.
 - **Stack**: Laravel, MySQL
@@ -100,7 +100,7 @@ Comprehensive system for livestock data management and tracking.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Comprehensive system for livestock data management and tracking.
 
 ---
 
-## 🌱 Learning & Interests
+## Learning & Interests
 
 - System Architecture & Design Patterns
 - Cloud Infrastructure & DevOps
@@ -124,13 +124,9 @@ Comprehensive system for livestock data management and tracking.
 
 ---
 
-## 📬 Get in Touch
+## Contact
 
-I'm always interested in discussing:
-- Innovative web and mobile solutions
-- Collaboration opportunities
-- Tech-related discussions
-- Project ideas that solve real problems
+Interested in discussing innovative solutions, collaboration opportunities, or project ideas?
 
 <div align="center">
 
@@ -144,8 +140,6 @@ I'm always interested in discussing:
 
 <div align="center">
 
-### ✨ "Good software is built to solve problems, not just to demonstrate technology." ✨
-
-*Last Updated: 2024*
+**"Good software is built to solve problems, not just to demonstrate technology."**
 
 </div>
