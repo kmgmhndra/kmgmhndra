@@ -1,60 +1,89 @@
-# Hi, I'm Komang Mahendra 👋 
-### Web & Mobile Developer | S.Kom Graduate | Tech Entrepreneur
+# Komang Mahendra
 
-<p align="left">
- <a href="https://github.com/kmgmhndra">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=007ACC&height=150&section=header&text=Building%20Digital%20Solutions&fontSize=40&animation=fadeIn" />
- </a>
-</p>
-
-## 🚀 About Me
-I am a Computer Science graduate (**S.Kom**) from **Ganesha University of Education** with a deep interest in software engineering, specifically in **Web and Mobile Development**. I bridge the gap between functional logic and aesthetic design.
-
-- 🏗️ **Co-Founder** at **PT. Anindya Karya Nusantara**, building **diEvaluasi.id**.
-- 📱 **Mobile Developer** of **SI UBIN**, a multi-commodity calculator available on Play Store.
-- 🏛️ **Currently:** Streamlining State Property (BMN) systems at the **Ministry of Law and Human Rights, Bali**.
-- 📊 **Past Experience:** IT Intern at **BPS (Central Bureau of Statistics)**.
+Software Developer focused on **Web and Mobile Application Development**.  
+Interested in building practical digital systems that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 🌐 Web & Backend Development
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I am a **Computer Science graduate (S.Kom)** from **Universitas Pendidikan Ganesha** with experience in developing web and mobile applications for both institutional and startup environments.
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+My main focus is on building systems that are reliable, maintainable, and user-friendly.
+
+Current interests include:
+
+- Web application architecture
+- Mobile application development
+- System automation and digitalization
+- Data-driven decision support systems
 
 ---
 
-## 📊 My GitHub Stats
+## Current Work
+
+- **Co-Founder** — PT. Anindya Karya Nusantara  
+  Developing the web platform **diEvaluasi.id**
+
+- **Software Developer** — Ministry of Law and Human Rights (Bali)  
+  Contributing to internal digital systems including payroll and administrative applications
+
+- **Mobile Developer** — SI UBIN  
+  Agricultural commodity calculation application
+
+---
+
+## Technology Stack
+
+### Web Development
+- Laravel
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Mobile Development
+- Flutter
+- Dart
+
+### Database & Tools
+- MySQL
+- Firebase
+- Git
+- REST API
+
+---
+
+## Selected Projects
+
+**diEvaluasi.id**  
+Web-based tryout and evaluation platform.
+
+**SI UBIN**  
+Mobile application for calculating agricultural commodity prices and quantities.
+
+**E-Payroll**  
+Digital payroll management system developed for internal government use.
+
+**Sipaten**  
+Livestock recording and management system built with Laravel.
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmgmhndra&show_icons=true&theme=radical" alt="kmgmhndra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgmhndra&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmgmhndra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgmhndra&layout=compact" />
 </p>
 
 ---
 
-## 💼 Featured Projects
-- **diEvaluasi.id** – A web-based tryout information system.
-- **SI UBIN** – A mobile application for agricultural commodity calculation.
-- **E-Payroll** – An automated payroll management system (Innovation project at Ministry of Law).
-- **Sipaten** – Livestock recording and management system (Built with Laravel).
+## Contact
+
+- LinkedIn: https://linkedin.com/in/kmgmhndra
+- Instagram: https://instagram.com/kmgmhndra
 
 ---
 
-## 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/kmgmhndra" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/kmgmhndra" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> “Good software is built to solve problems, not just to demonstrate technology.”
